@@ -1,15 +1,15 @@
 # Platformer
 Coding platformer game physics with unity
 
-# Featuring:
-Jump
+## Featuring:
+### Jump
 ![](shortJump.gif)
 
-Double jump
+### Double jump
 ![](doubleJump.gif)
 
-Wall friction
+### Wall friction
 ![](wallFriction.gif)
 
-Wall jump
+### Wall jump
 ![](wallJump.gif)
